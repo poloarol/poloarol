@@ -1,6 +1,6 @@
 ### Hi there 👋, 
 
-I'm Paul Arol Wambo (Polo). I am a Data Scientists (Computational Biologist) with a background in both Biochemistry and Computer Science. I love applying my knowledge to solve challenging problems in the life sciences, especially at the intersection between chemistry, structural biology, genomics and machine learning.
+I'm Paul Arol Wambo (Polo). I am a Data Scientist (Computational Biologist) with a background in both Biochemistry and Computer Science. I love applying my knowledge to solve challenging problems in the life sciences, especially at the intersection between chemistry, structural biology, genomics and machine learning.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poloarol&label=Views&color=blue&style=plastic" alt="poloarol" /> </p>
 
