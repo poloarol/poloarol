@@ -12,13 +12,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about bioinformatics, application of machine learning methods in drug discovery or anything you think my skills are aligned with
 - 😄 Pronouns: He/Him
 
+<div align="center">
 <h2 align="left"> My Github Stats </h2>
-  
 
-
-<!-- <a href="https://github.com/AurelienCallens">
+<!--- <a href="https://github.com/">
     <img src="https://github-stats-alpha.vercel.app/api?username=poloarol&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a> -->
+</a> --->
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poloarol&theme=dracula) 
 
@@ -28,4 +27,4 @@ Here are some ideas to get you started:
 <p> 
  
 
-<div align="left"> 
+<div> 
