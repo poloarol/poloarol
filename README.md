@@ -11,3 +11,21 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with [Peptide Descriptors](https://github.com/poloarol/peptide-descriptors): To apply Density Functional Theory (DFT) to predict properties of peptides containing non-canonical of amino acids
 - 💬 Ask me about bioinformatics, application of machine learning methods in drug discovery or anything you think my skills are aligned with
 - 😄 Pronouns: He/Him
+
+<h2 align="left"> My Github Stats </h2>
+  
+
+
+<!-- <a href="https://github.com/AurelienCallens">
+    <img src="https://github-stats-alpha.vercel.app/api?username=poloarol&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a> -->
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poloarol&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=poloarol&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=poloarol&theme=dracula)
+
+<p> 
+ 
+
+<div align="left"> 
