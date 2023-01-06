@@ -4,7 +4,7 @@ I'm Paul Wambo. I am a Data Scientist (Computational Biologist) with a backgroun
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Bio-Diffusion-Playground](https://github.com/poloarol/bio-diffusion-playground), [Peptide Descriptors](https://github.com/poloarol/peptide-descriptors)
+- 🔭 I’m currently working on [small-molecules](https://github.com/poloarol/small-molecules), [Peptide Descriptors](https://github.com/poloarol/peptide-descriptors)
 - 🌱 I’m currently learning Julia Programming and Data Version Control
 - 🌱 I’m Continously improving my general skills and knowledge of Deep learning methods and Computational biology
 - 👯 I’m looking to collaborate on [Bio-Diffusion-Playground](https://github.com/poloarol/bio-diffusion-playground), [Peptide Descriptors](https://github.com/poloarol/peptide-descriptors)
