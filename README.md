@@ -4,7 +4,7 @@ I’m Paul Wambo, a computational scientist with a background in biochemistry an
 
 My work has taken me across molecular discovery and protein design, genomics and epigenomics, single-cell and spatial biology, and multiplexed imaging. Across these areas, I’m interested in the same fundamental problem: how can we turn complex biological questions and high-dimensional data into computational approaches that help us discover something meaningful?
 
-I enjoy building the computational machinery needed to make that possible—from machine learning models and scientific software to reproducible and scalable analytical workflows. Ultimately, I use computation as a way to ask better questions, explore biological systems, and uncover patterns that would otherwise be difficult to see.
+I enjoy building the computational machinery needed to make that possible, from machine learning models and scientific software to reproducible and scalable analytical workflows. Ultimately, I use computation as a way to ask better questions, explore biological systems, and uncover patterns that would otherwise be difficult to see.
 
 
 <div align="center">
