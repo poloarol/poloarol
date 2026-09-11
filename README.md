@@ -1,13 +1,11 @@
 ### Salut | Hello 👋, 
 
-I'm Paul Wambo. I am a Data Scientist (Computational Biologist) with a background in both Biochemistry and Computer Science. I love applying my knowledge to solve challenging problems in the life sciences, especially at the intersection between chemistry, structural biology, genomics and machine learning.
+I’m Paul Wambo, a computational scientist with a background in biochemistry and computer science. I use machine learning, computational modelling, and quantitative methods to investigate complex problems in biology.
 
-Here are some ideas to get you started:
+My work has taken me across molecular discovery and protein design, genomics and epigenomics, single-cell and spatial biology, and multiplexed imaging. Across these areas, I’m interested in the same fundamental problem: how can we turn complex biological questions and high-dimensional data into computational approaches that help us discover something meaningful?
 
-- 🔭 Currently learning best practices for pipeline development using both Snakemake and Nextflow
-- 🌱 I’m Continously improving my general skills and knowledge of Deep learning methods and Computational biology
-- 💬 Ask me about bioinformatics, application of machine learning methods in drug discovery or anything you think my skills are aligned with
-- 😄 Pronouns: He/Him
+I enjoy building the computational machinery needed to make that possible—from machine learning models and scientific software to reproducible and scalable analytical workflows. Ultimately, I use computation as a way to ask better questions, explore biological systems, and uncover patterns that would otherwise be difficult to see.
+
 
 <div align="center">
 <h2 align="left"> My Github Stats </h2>
